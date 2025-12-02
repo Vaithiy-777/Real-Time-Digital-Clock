@@ -15,6 +15,6 @@ How to use
 3. Hour, minute, and second hands move in real-time
 
 Live Demo
-https://github.com/Vaithiy-777/Real-Time-Digital-Clock
+https://Vaithiy-777.github.io/Real-Time-Digital-Clock/
 
 
